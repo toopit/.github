@@ -1,2 +1,2 @@
 # .github
-Top Information Technologies Community
+Top Information Technology Community
